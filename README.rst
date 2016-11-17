@@ -1,6 +1,4 @@
-Sample Module Repository
-========================
+1DV610 Assignment 1 part 2
+==========================
 
-This simple project is an example repo for Python projects.
-
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
+This a TDD project for the course 1DV610, a rock, paper, scissor, lizard, spock game in python.
